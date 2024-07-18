@@ -1,3 +1,7 @@
+
+#### Work in Progress ##
+## Gives  errors.. please pull and debug###
+## might delete files or crash###
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
