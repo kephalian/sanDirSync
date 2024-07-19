@@ -19,6 +19,7 @@ A Python script for synchronizing directories with options for verbose logging, 
 ```bash
 python sync.py <source_directory> <destination_directory> [options]
 ```
+### Robocopy version batch .bat file is also available. Uses Robocopy on Windows shell.
 
 ### Options
 
