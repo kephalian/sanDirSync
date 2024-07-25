@@ -4,6 +4,12 @@
 A Python script for synchronizing directories with options for verbose logging, purging, forced copying, and two-way synchronization. Additionally, it can verify file integrity using MD5 hashes. This is an modified version of Dirsync module available in Python pypi based on Robocopy.
 
 [https://pypi.org/project/dirsync/](https://pypi.org/project/dirsync/)
+
+## GUI versions for wxPython and pyside6 are also available. Exe  version under release.
+
+
+## Exe File will be flagged by some Anti-virus as it is not signed Windows executable. I don't have money to pay these mobsters for a code execution certificate. Please go through the Python code yourself and judge if this is a malicious software!
+
 ## Features
 
 - **One-way Synchronization**: Synchronize files from source to destination.
