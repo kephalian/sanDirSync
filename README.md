@@ -7,7 +7,7 @@ A Python script for synchronizing directories with options for verbose logging, 
 
 ## GUI versions for wxPython and pyside6 are also available. Exe  version under release.
 
-Exe File will be flagged by some Anti-virus as it is not signed Windows executable. I don't have money to pay these mobsters for a code execution certificate. Please go through the Python code yourself and judge if this is a malicious software!
+Exe File will be flagged by some Anti-virus as it is not signed Windows executable. I don't have money to pay these mobsters for a code execution certificate. Please go through the Python code yourself and judge if this open source project is a malicious software!
 
 ## Features
 
